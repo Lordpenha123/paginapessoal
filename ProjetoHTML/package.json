@@ -1,0 +1,19 @@
+{
+  "name": "paginapessoal",
+  "version": "1.0.0",
+  "description": "Uma Pagina pessoal do Penha",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Felipe Penha Hoeppner",
+  "license": "ISC",
+  "dependencies": {
+    "life-server": "^7.0.0",
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

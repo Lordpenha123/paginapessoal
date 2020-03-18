@@ -1,0 +1,24 @@
+table ,th, td{
+    border: 1px red solid;
+}
+
+.dados {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 50%;
+    /*margin: 3%*/
+}
+
+ul li{
+    display: inline;
+    color: white;
+}
+
+.marg {
+    margin: 3%;
+}
